@@ -30,19 +30,19 @@ The CSV file is accessed at
 For the documentation
 * `documentation.pdf`
 
-## *Code*
-**program code**
-output/program.png
+## Code
+### Program Code
+![Program Code](output/program.png)
 
-**predict code**
-output/predict.png
+### Predict Code
+![Predict Code](output/predict.png)
 
-## *Output*
-**program output**
-output/programoutput.png
+## Output
+### Program Output
+![Program Output](output/programoutput.png)
 
-**predict output**
-output/predictoutput.png
+### Predict Output
+![Predict Output](output/predictoutput.png)
 
 ## Dataset Source
 https://www.kaggle.com/datasets/cpluzshrijayan/milkquality1
