@@ -5,9 +5,27 @@ Level 2 Mini Project by Mithra Nandhana BA
 This project uses Machine Learning to predict the quality grade of milk based on various physical and chemical characteristics. A Random Forest Classifier was implemented to classify milk samples into High, Medium, and Low quality categories.
 
 ## Answer
-The code is saved in the `MINI-PROJECT-1` along with the csv file and pkl files containing the data. The report is also saved in it.
+### Model
+Random Forest Classifier
 
-The code and the output are given below.
+### Performance
+Accuracy: 82.35294117647058 %
+
+### File Structure
+The source code is saved in
+![PROGRAM CODE](code/program.py)
+![PREDICT CODE](code/predict.py)
+
+The binary files are saved in 
+![ENCODER](joblib/grade_encoder.pkl)
+![MODEL](joblib/milk_random_forest.pkl)
+![SCALER](joblib/scaler.pkl)
+
+The CSV file is accessed at 
+![CSV FILE](MINI-PROJECT-1-/scaler.pkl)
+
+For the documentation
+![DOCUMENTATION](MINI-PROJECT-1-/documentation.pdf)
 
 ## *Code*
 **program code**
@@ -23,4 +41,6 @@ The code and the output are given below.
 **predict output**
 ![Predict Output](output/predictoutput.png)
 
+## Dataset Source
+![Milk Quality Prediction Dataset from Kaggle.](https://www.kaggle.com/datasets/cpluzshrijayan/milkquality1)
 :D
