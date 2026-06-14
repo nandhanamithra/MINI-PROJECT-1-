@@ -13,19 +13,22 @@ Accuracy: 82.35294117647058 %
 
 ### File Structure
 The source code is saved in
-'code/program.py'
-'code/predict.py'
+* `code/program.py`
+
+* `code/predict.py`
 
 The binary files are saved in 
-'joblib/grade_encoder.pkl'
-'joblib/milk_random_forest.pkl'
-'joblib/scaler.pkl'
+* `joblib/grade_encoder.pkl`
+
+* `joblib/milk_random_forest.pkl`
+
+* `joblib/scaler.pkl`
 
 The CSV file is accessed at 
-'MINI-PROJECT-1-/scaler.pkl'
+* `milknew.csv`
 
 For the documentation
-'MINI-PROJECT-1-/documentation.pdf'
+* `documentation.pdf`
 
 ## *Code*
 **program code**
