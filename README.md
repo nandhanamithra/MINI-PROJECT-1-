@@ -13,34 +13,34 @@ Accuracy: 82.35294117647058 %
 
 ### File Structure
 The source code is saved in
-![PROGRAM CODE](code/program.py)
-![PREDICT CODE](code/predict.py)
+code/program.py
+code/predict.py
 
 The binary files are saved in 
-![ENCODER](joblib/grade_encoder.pkl)
-![MODEL](joblib/milk_random_forest.pkl)
-![SCALER](joblib/scaler.pkl)
+joblib/grade_encoder.pkl
+joblib/milk_random_forest.pkl
+joblib/scaler.pkl
 
 The CSV file is accessed at 
-![CSV FILE](MINI-PROJECT-1-/scaler.pkl)
+MINI-PROJECT-1-/scaler.pkl
 
 For the documentation
-![DOCUMENTATION](MINI-PROJECT-1-/documentation.pdf)
+MINI-PROJECT-1-/documentation.pdf
 
 ## *Code*
 **program code**
-![program](output/program.png)
+output/program.png
 
 **predict code**
-![predict](output/predict.png)
+output/predict.png
 
 ## *Output*
 **program output**
-![Program Output](output/programoutput.png)
+output/programoutput.png
 
 **predict output**
-![Predict Output](output/predictoutput.png)
+output/predictoutput.png
 
 ## Dataset Source
-![Milk Quality Prediction Dataset from Kaggle.](https://www.kaggle.com/datasets/cpluzshrijayan/milkquality1)
+https://www.kaggle.com/datasets/cpluzshrijayan/milkquality1
 :D
