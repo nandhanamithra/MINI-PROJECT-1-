@@ -11,10 +11,10 @@ The code and the output are given below.
 
 ## *Code*
 **program code**
-![program](output/programcode.png)
+![program](output/program.png)
 
 **predict code**
-![predict](output/predictcode.png)
+![predict](output/predict.png)
 
 ## *Output*
 **program output**
